@@ -1,2 +1,2 @@
 text=auto
-*.scss linguist-vendored
+*.scss linguist-generated
